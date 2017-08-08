@@ -1,0 +1,1 @@
+Scraping Masjid data from http://simas.kemenag.go.id/index.php/profil/masjid/page and export csv file using Go Language
